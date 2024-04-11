@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥🔥
->https://Hardik-Kothari.github.io/
+>https://hardikko.github.io/Hardik-Kothari.github.io/
 
 Welcome to my personal portfolio! 🎉🚀 This portfolio showcases my skills, projects, and experiences as a software developer. It is designed to provide an overview of my background, achievements, and the work I have done.
 
